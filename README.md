@@ -14,9 +14,6 @@
 [paypal_me]: https://paypal.me/rospogrigio
 
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rospogrigio&theme=dark)
-
 ## Custom components
 
 | Name                                                                                                                        | Stars                                                                                                                                 | Latest Version                                                                                                                                                                                                                                              | HACS support                                         | Last commit                                                                                                                                                                                                                                  | Forum                                                                                                                                     |
